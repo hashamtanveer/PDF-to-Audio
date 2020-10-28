@@ -1,4 +1,4 @@
-# 🎧 PDF --> Audio Converter
+# 📘 PDF --> 🎧 Audio Converter
 This Python Program let's you create audio books from pdf books!
 
 ## 🏗 SETUP
